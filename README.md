@@ -1,2 +1,1 @@
-# engineering.defacto.nl
-takeover
+# Subdomain Takeover By Shuvo 
